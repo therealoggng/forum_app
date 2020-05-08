@@ -1,6 +1,6 @@
 # Forum App
 
-Hi guys!! I developed an application where users vote , this app would be useful at the election of the President or Parliament=))
+Hi guys!! I developed an application where users vote , this app would be useful at the election of the President=))
 
 ## Built With
 
